@@ -1,2 +1,3 @@
 a - Testando uma atualização de arquivo.
 Desenvolvendo a Funcionalidade A
+Desenvolvendo a Funcionalidade B
