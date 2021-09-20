@@ -1,5 +1,2 @@
 a - Testando uma atualização de arquivo.
-a
-b
-c
-d
+Desenvolvendo a Funcionalidade A
